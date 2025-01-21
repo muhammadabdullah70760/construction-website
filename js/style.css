@@ -1,0 +1,139 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", serif;
+}
+
+.img1 {
+  width: 30px;
+  height: 30px;
+}
+.main1 {
+  background-color: rgb(47, 0, 255);
+}
+h6 {
+  font-size: 15px;
+  color: rgb(250, 235, 215);
+  font-weight: 400;
+}
+
+h6 > span {
+  color: white;
+  font-weight: bold;
+}
+.main2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.imgm {
+  display: flex;
+  gap: 20px;
+  padding: 7px;
+}
+.background {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("pexels-pixabay-37347.jpg");
+  background-size: cover;
+  backdrop-filter: brightness(0.5);
+  /*filter: opacity(50%);*/
+}
+.button {
+  display: flex;
+  gap: 15px;
+}
+.button1 {
+  background-color: orange;
+  color: white;
+  width: 70px;
+  height: 25px;
+  outline: none;
+  border: 0;
+  border-radius: 20px;
+}
+.h2 {
+  color: white;
+}
+h5 {
+  color: white;
+  margin: 10px;
+}
+
+.main-background {
+  background-image: linear-gradient(#000000cc, #000000cc);
+  height: inherit;
+}
+.header {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.main0 {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.315);
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.input {
+  display: flex;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.hi {
+  color: orange;
+  font-size: 50px;
+}
+.h2 {
+  font-size: 40px;
+}
+.input {
+  border: 1px solid white;
+}
+.input1 {
+  display: flex;
+  margin-top: 9px;
+}
+.button3 {
+  width: 70px;
+  height: 25px;
+  text-align: center;
+  background-color: orangered;
+  border-radius: 10px;
+  margin-top: 20px;
+  color: white;
+  border: none;
+  
+}
+.img5 {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 95%;
+  height: 40%;
+}
+span {
+ color: blue;
+}
+.last-h {
+  font-size: 15px;
+   color: orange;
+  font-size: 20px;
+}
+.last {
+  margin: 20px;
+}

@@ -1,0 +1,67 @@
+.main {
+  margin: 60px;
+  color: yellow;
+}
+.main1 {
+  color: white;
+}
+.main2 {
+  background-color: rgb(78, 3, 3);
+}
+.a {
+  color: azure;
+  margin: 60px;
+  font-size: 80px;
+}
+.b {
+  color: blanchedalmond;
+  margin: 40px;
+  margin-top: 10px;
+}
+.img {
+  width: 370px;
+}
+.hero-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: brown;
+  color: antiquewhite;
+}
+.button {
+  border-radius: 150px;
+  height: 7%;
+  width: 20%;
+}
+.h4 {
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+}
+.p {
+  justify-content: center;
+  display: flex;
+  font-size: 17px;
+  margin: 30px;
+}
+.h5 {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+.h6 {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+}
+.img3 {
+  width: 30%;
+}
+.button2{
+    border-radius: 150px;
+    height: 7%;
+    width: 20%;
+
+}
+.last2{
+    background-color: brown;
+}
