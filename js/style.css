@@ -63,7 +63,7 @@ h6 > span {
 .h2 {
   color: white;
 }
-h5 {
+.h51{
   color: white;
   margin: 10px;
 }
@@ -126,7 +126,7 @@ a {
   width: 95%;
   height: 40%;
 }
-span {
+.H5 {
  color: blue;
 }
 .last-h {
@@ -137,3 +137,93 @@ span {
 .last {
   margin: 20px;
 }
+.lastimg{
+  width: 270px;
+  height: 90px;
+}
+.card{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+background-color: rgb(226, 232, 236);
+
+}
+.lastbutton{
+  height: 35px;
+  width: 220px;
+  border-radius: 13px;
+  color: white;
+  background-color: rgb(18, 62, 158);
+  font-size: 12px;
+  margin: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+p{
+  margin: 10px;
+  font-size: 10px;
+  
+}
+.last4{
+ 
+  color: rgb(44, 29, 131);
+  font-size: 30px;
+  font-weight: 400;
+}
+.lasth5{
+  margin: 10px;
+  color: black;
+}
+.premium{
+  color: blue;
+}
+.card1{
+  justify-content: center;
+  display: flex;
+  gap: 30px;
+  margin: 20px;
+}
+.card2{
+  justify-content: center;
+  display: flex;
+  gap: 30px;
+  margin: 20px;
+}
+.lasth6{
+  color: black;
+  margin: 10px;
+}
+.h6i{
+  color: black;
+  margin: 10px;
+  font-size: 8px;
+}
+.p0{
+  margin: 5px;
+}
+.main3{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  flex-direction: column;
+  margin-right: auto;
+  margin-left: 60px;
+  padding: 20px;
+}
+
+.lastdiv{
+  justify-content: right;
+  display: flex;
+  margin: 20px;
+  padding: 10px;
+   background-color: #313131;
+}
+.lastdiv{
+  color: white;
+}
+.lastdiv1{
+  margin-top: 40px;
+  margin-right: 30px;
+}s
